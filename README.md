@@ -36,6 +36,7 @@ A multi-platform analytics system with web frontend, backend APIs, data processi
 
 | Component | Repository |
 |---|---|
+| Case Study | [tonglam/letletme-case-study](https://github.com/tonglam/letletme-case-study) |
 | Live Site | [letletme.top](https://letletme.top) |
 | Web Frontend | [tonglam/letletme-web](https://github.com/tonglam/letletme-web) |
 | REST API | [tonglam/letletme-api](https://github.com/tonglam/letletme-api) |
