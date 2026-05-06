@@ -20,6 +20,14 @@ I build full-stack products end-to-end, including frontend applications, backend
 | Cloud | AWS, Cloudflare, Vercel |
 | Systems | REST APIs, GraphQL, AI integrations, automation, realtime systems |
 
+## Focus Areas
+
+- SaaS MVP development
+- Backend API architecture
+- AI-assisted workflow integration
+- Cloud deployment and debugging
+- Data-heavy and realtime applications
+
 ## Selected Projects
 
 ### LetLetMe — Real-Time Analytics Platform
@@ -28,12 +36,11 @@ A multi-platform analytics system with web frontend, backend APIs, data processi
 
 | Component | Repository |
 |---|---|
-| Live Site | https://letletme.top |
-| Web Frontend | https://github.com/tonglam/letletme-web |
-| REST API | https://github.com/tonglam/letletme-api |
-| Data Processing Pipeline | https://github.com/tonglam/letletme_data |
-| GraphQL API | https://github.com/tonglam/letletme-graphql |
-| Telegram Bot | https://github.com/tonglam/letletme-telegram-bot |
+| Live Site | [letletme.top](https://letletme.top) |
+| Web Frontend | [tonglam/letletme-web](https://github.com/tonglam/letletme-web) |
+| REST API | [tonglam/letletme-api](https://github.com/tonglam/letletme-api) |
+| Data Processing Pipeline | [tonglam/letletme_data](https://github.com/tonglam/letletme_data) |
+| GraphQL API | [tonglam/letletme-graphql](https://github.com/tonglam/letletme-graphql) |
 
 ### Smart Home Monitoring System
 
@@ -41,9 +48,9 @@ A Raspberry Pi-based smart home system with sensor monitoring, web dashboard, ca
 
 | Component | Repository |
 |---|---|
-| Web Dashboard | https://github.com/tonglam/smart_home-website |
-| Raspberry Pi Service | https://github.com/tonglam/smart_home-rpi |
-| Notification Worker | https://github.com/tonglam/smart_home-notification_worker |
+| Web Dashboard | [tonglam/smart_home-website](https://github.com/tonglam/smart_home-website) |
+| Raspberry Pi Service | [tonglam/smart_home-rpi](https://github.com/tonglam/smart_home-rpi) |
+| Notification Worker | [tonglam/smart_home-notification_worker](https://github.com/tonglam/smart_home-notification_worker) |
 
 ### Automation & Integration Tools
 
@@ -51,9 +58,9 @@ Small focused tools for monitoring, notification, scraping, and workflow automat
 
 | Project | Repository |
 |---|---|
-| Medical Visa Slots Notification | https://github.com/tonglam/medical-visa-slots-notification |
-| Crawler Notification | https://github.com/tonglam/crawler-notification |
-| Notion D1 Worker | https://github.com/tonglam/notion-d1-worker |
+| Medical Visa Slots Notification | [tonglam/medical-visa-slots-notification](https://github.com/tonglam/medical-visa-slots-notification) |
+| Crawler Notification | [tonglam/crawler-notification](https://github.com/tonglam/crawler-notification) |
+| Notion D1 Worker | [tonglam/notion-d1-worker](https://github.com/tonglam/notion-d1-worker) |
 
 ## Certifications
 
@@ -62,5 +69,5 @@ Small focused tools for monitoring, notification, scraping, and workflow automat
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/qitonglan/
+- LinkedIn: [qitonglan](https://www.linkedin.com/in/qitonglan/)
 - Email: qitonglan@gmail.com
