@@ -1,70 +1,52 @@
-## Hi there 👋 I'm Qitong (Tong) Lan
+# Tong Lam
 
-I'm a professional **Full-Stack Engineer** of experience at leading tech firms. I specialize in architecting and delivering complete cloud-native solutions for mission-critical systems.
+Senior Full-Stack Engineer focused on SaaS products, backend systems, AI integrations, and cloud-based applications.
 
-My expertise covers the full development lifecycle, from scalable cloud infrastructure and DevOps pipelines to modern frontend interfaces and high-performance backend services.
+I build full-stack products end-to-end, including frontend applications, backend APIs, data pipelines, cloud deployment, automation workflows, and production debugging.
 
-I'm passionate about leveraging AI to build intelligent, adaptive, and reliable enterprise-grade systems.
+## Core Stack
 
----
+- Frontend: Next.js, React, TypeScript, TailwindCSS
+- Backend: Node.js, Bun, Elysia.js, Java Spring Boot
+- Data: PostgreSQL, MySQL, Redis, Drizzle ORM
+- Cloud: AWS, Cloudflare, Vercel
+- Other: REST APIs, GraphQL, AI integrations, automation, realtime systems
 
-### 📊 GitHub Stats
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonglam&show_icons=true&theme=radical" alt="Tong Lam's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonglam&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonglam&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+### LetLetMe — Real-Time Analytics Platform
 
----
+A multi-platform analytics system with web frontend, backend APIs, data processing, caching, GraphQL, bot integration, and AI-assisted workflows.
 
-<summary><h3>🛠️ Skills</h3></summary>
+- Live site: https://letletme.top
+- Web frontend: https://github.com/tonglam/letletme-web
+- REST API: https://github.com/tonglam/letletme-api
+- Data pipeline: https://github.com/tonglam/letletme_data
+- GraphQL API: https://github.com/tonglam/letletme-graphql
+- Telegram bot: https://github.com/tonglam/letletme-telegram-bot
 
-**Programming Languages**
+### Smart Home Monitoring System
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,ts,python,java,bash)](https://skillicons.dev)
+A Raspberry Pi based smart home system with sensor monitoring, web dashboard, camera integration, and notification workflows.
 
-**Frontend Technologies**
+- Web dashboard: https://github.com/tonglam/smart_home-website
+- Raspberry Pi service: https://github.com/tonglam/smart_home-rpi
+- Notification worker: https://github.com/tonglam/smart_home-notification_worker
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,shadcn)](https://skillicons.dev)
+### Automation & Integration Tools
 
-**Backend Technologies**
+Small focused tools for monitoring, notification, scraping, and workflow automation.
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,bun,flask,spring)](https://skillicons.dev)
+- Medical visa slots notification: https://github.com/tonglam/medical-visa-slots-notification
+- Crawler notification: https://github.com/tonglam/crawler-notification
+- Notion D1 worker: https://github.com/tonglam/notion-d1-worker
 
-**Database Technologies**
+## Certifications
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis,mongodb,supabase)](https://skillicons.dev)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
-**Testing & Quality Assurance**
+## Contact
 
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,postman)](https://skillicons.dev)
-
-**DevOps & Infrastructure**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,aws,jenkins,githubactions)](https://skillicons.dev)
-
----
-
-### 📜 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/a19f51dc-d001-48f0-a959-4d62d2b07761" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="120"/>
-  </a>
-  <a href="https://www.credly.com/badges/4ca74e6e-cd0c-4ed7-a377-4bf7f9f9bd0e" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="120"/>
-  </a>
-</p>
-
-### 📫 Connect with me
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/qitonglan/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:bluedragon00000@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
-
-</p>
-
-<!--
-**tonglam/tonglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- LinkedIn: https://www.linkedin.com/in/qitonglan/
+- Email: qitonglan@gmail.com
