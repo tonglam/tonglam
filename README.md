@@ -1,74 +1,40 @@
-# Tong Lam
+# Qitong (Tong) Lan
 
-Senior Full-Stack Engineer focused on SaaS products, backend systems, AI integrations, and cloud-based applications.
+Perth-based software engineer with 8+ years of commercial experience building cloud billing, telecommunications CRM, game-operations systems, APIs, and web products.
 
-I build full-stack products end-to-end, including frontend applications, backend APIs, data pipelines, cloud deployment, automation workflows, and production debugging.
+I work across backend and full-stack delivery, with a focus on reliable services, data processing, production support, and practical product outcomes.
 
-<p>
-  <a href="https://letletme.top"><img src="https://img.shields.io/badge/Live-LetLetMe-blue" alt="LetLetMe Live Site"></a>
-  <a href="https://www.linkedin.com/in/qitonglan/"><img src="https://img.shields.io/badge/LinkedIn-Qitong%20Lan-blue" alt="LinkedIn"></a>
-  <a href="mailto:qitonglan@gmail.com"><img src="https://img.shields.io/badge/Email-qitonglan%40gmail.com-red" alt="Email"></a>
-</p>
+[Portfolio](https://www.qitonglan.com/) · [LinkedIn](https://www.linkedin.com/in/qitonglan/) · [Email](mailto:qitonglan@gmail.com)
 
-## Core Stack
+## Core technical skills
 
 | Area | Technologies |
 |---|---|
-| Frontend | Next.js, React, TypeScript, TailwindCSS |
-| Backend | Node.js, Bun, Elysia.js, Java Spring Boot |
-| Data | PostgreSQL, MySQL, Redis, Drizzle ORM |
-| Cloud | AWS, Cloudflare, Vercel |
-| Systems | REST APIs, GraphQL, AI integrations, automation, realtime systems |
+| Backend | Java, Spring Boot, Node.js, TypeScript, REST APIs, GraphQL |
+| Frontend | React, Next.js, TypeScript |
+| Data and messaging | PostgreSQL, MySQL, Redis, Kafka |
+| Cloud and delivery | AWS, Docker, Cloudflare, Vercel, GitHub Actions, Jenkins |
 
-## Focus Areas
+## Commercial experience
 
-- SaaS MVP development
-- Backend API architecture
-- AI-assisted workflow integration
-- Cloud deployment and debugging
-- Data-heavy and realtime applications
+- Delivered Java/Spring Boot and Node.js services for cloud usage calculation, discounts, billing, customer bills, invoices, and account data at China Telecom Cloud Technology.
+- Built workflow automation and authenticated applications used by operations teams across 50+ games at NetEase Games.
+- Built and supported provincial telecommunications CRM services for order processing, billing, customer management, and account provisioning at China Telecom Corporation Limited.
+- Completed a Master of Information Technology at the University of Western Australia in 2025.
 
-## Selected Projects
+## Projects
 
-### LetLetMe — Real-Time Analytics Platform
+### [LetLetMe — Real-Time FPL Platform](https://github.com/tonglam/letletme-case-study)
 
-A multi-platform analytics system with web frontend, backend APIs, data processing, caching, GraphQL, bot integration, and AI-assisted workflows.
+Built and operate a real-time Fantasy Premier League analytics and tournament platform used by 800+ users. The system includes scheduled ingestion, live-data synchronisation, REST and GraphQL services, PostgreSQL/MySQL, Redis caching, automated tests, and CI/CD.
 
-| Component | Repository |
-|---|---|
-| Case Study | [tonglam/letletme-case-study](https://github.com/tonglam/letletme-case-study) |
-| Live Site | [letletme.top](https://letletme.top) |
-| Web Frontend | [tonglam/letletme-web](https://github.com/tonglam/letletme-web) |
-| REST API | [tonglam/letletme-api](https://github.com/tonglam/letletme-api) |
-| Data Processing Pipeline | [tonglam/letletme_data](https://github.com/tonglam/letletme_data) |
-| GraphQL API | [tonglam/letletme-graphql](https://github.com/tonglam/letletme-graphql) |
+[Live site](https://letletme.top) · [Web](https://github.com/tonglam/letletme-web) · [REST API](https://github.com/tonglam/letletme-api) · [Data processing](https://github.com/tonglam/letletme_data) · [GraphQL](https://github.com/tonglam/letletme-graphql)
 
-### Smart Home Monitoring System
+### [Vehicle Operations & Compliance Platform](https://github.com/tonglam/vehicle-track)
 
-A Raspberry Pi-based smart home system with sensor monitoring, web dashboard, camera integration, and notification workflows.
-
-| Component | Repository |
-|---|---|
-| Web Dashboard | [tonglam/smart_home-website](https://github.com/tonglam/smart_home-website) |
-| Raspberry Pi Service | [tonglam/smart_home-rpi](https://github.com/tonglam/smart_home-rpi) |
-| Notification Worker | [tonglam/smart_home-notification_worker](https://github.com/tonglam/smart_home-notification_worker) |
-
-### Automation & Integration Tools
-
-Small focused tools for monitoring, notification, scraping, and workflow automation.
-
-| Project | Repository |
-|---|---|
-| Medical Visa Slots Notification | [tonglam/medical-visa-slots-notification](https://github.com/tonglam/medical-visa-slots-notification) |
-| Crawler Notification | [tonglam/crawler-notification](https://github.com/tonglam/crawler-notification) |
-| Notion D1 Worker | [tonglam/notion-d1-worker](https://github.com/tonglam/notion-d1-worker) |
+Built and deployed a role-secured platform for vehicle, driver, inspection, agreement, signature, document, and compliance workflows using Next.js, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, Supabase, and Vercel.
 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
-
-## Contact
-
-- LinkedIn: [qitonglan](https://www.linkedin.com/in/qitonglan/)
-- Email: qitonglan@gmail.com
